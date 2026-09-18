@@ -5,3 +5,5 @@ Pillow
 huggingface_hub
 flask==2.2.2
 gunicorn==20.1.0
+Flask==2.0.3
+Werkzeug==2.0.3
